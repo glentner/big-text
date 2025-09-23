@@ -1,6 +1,6 @@
 [project]
 name = "big_text"
-version = "0.1.0"
+version = "0.2.0"
 description = "Generate ascii art from text input."
 authors = [
     { name = "Geoffrey Lentner", email = "glentner@purdue.edu" },
