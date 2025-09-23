@@ -24,7 +24,7 @@ Install
 The well-known [uv](https://docs.astral.sh/uv/) utility is the best way to install this program.
 
 ```sh
-uv tool install git+https://github.com/glentner/big-text
+uv tool install big-text
 ```
 
 
@@ -37,7 +37,7 @@ Use `big-text --help` to get usage and help on options.
 big-text 'Welcome!'
 ```
 
-To use within another Python project, `uv add git+https://github.com/glentner/big-text`:
+To use within another Python project, `uv add big-text`:
 
 ```python
 from big_text import ascii_art
