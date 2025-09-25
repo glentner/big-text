@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2025 Geoffrey Lentner
 # SPDX-License-Identifier: MIT
 
-"""Test gpu information parsing."""
+"""Test ascii_art functionality."""
 
 
 # Type annotations
