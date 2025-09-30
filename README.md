@@ -12,7 +12,7 @@
 &nbsp;
 [![Version](https://img.shields.io/github/v/release/glentner/big-text?sort=semver)](https://github.com/glentner/big-text)
 &nbsp;
-[![Python Version](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads)
+[![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads)
 
 
 A Python library and command-line tool for converting text into ASCII art.
