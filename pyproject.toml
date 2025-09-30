@@ -1,6 +1,6 @@
 [project]
 name = "big_text"
-version = "0.2.0"
+version = "0.2.1"
 description = "Generate ascii art from text input."
 authors = [
     { name = "Geoffrey Lentner", email = "glentner@purdue.edu" },
@@ -16,12 +16,15 @@ keywords = [
 ]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
     "Programming Language :: Python :: 3.14",
     "License :: OSI Approved :: MIT License",
 ]
-requires-python = ">=3.12"
+requires-python = ">=3.9"
 dependencies = [
     "cmdkit>=2.7.7",
 
